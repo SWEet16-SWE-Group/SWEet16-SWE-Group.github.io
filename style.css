@@ -95,10 +95,11 @@ section{
     font-size: 1.05em;
 }
 
-.verbali{
+.verbali, .interni, .esterni{
     padding-top: 45px;
     font-size: 1.15em;
 }
+
 
 p {
     margin-top: 50px;
